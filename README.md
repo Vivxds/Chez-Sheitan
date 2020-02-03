@@ -1,2 +1,2 @@
-# Chez-Sheitan
+# Chez Sheitan
 Exercise GitHub
